@@ -2,12 +2,7 @@
 title: Pream Totaram
 email: pream@preamtotaram.com
 description: > 
- This is my personal site, and a view of what I have done. 
- When I figure something out, or learn how to do something, 
- I will generally post about it for use as a reference
- The repo for this site is public on Github.  
- Feel free to look at it and review the code.
- I am always looking to improve my skillset
+ I am a freelance web developer.  Feel free to reach out to me if you need assistance on a project.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://preamtotaram.com" # the base hostname & protocol for your site
 twitter_username: ptotaram
