@@ -1,6 +1,6 @@
 # Site settings
 title: Pream Totaram
-email: pream0526@gmail.com
+email: pream@preamtotaram.com
 description: > 
  This is my personal site, and a view of what I have done. 
  When I figure something out, or learn how to do something, 
@@ -12,6 +12,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://preamtotaram.com" # the base hostname & protocol for your site
 twitter_username: ptotaram
 github_username:  ptotaram
+phone: (914) 689-1237
 
 # Build settings
 markdown: redcarpet
