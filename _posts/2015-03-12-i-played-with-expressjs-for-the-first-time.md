@@ -14,6 +14,7 @@ I started by just browsing the documentation, where I came across the [Express G
 The next major plus I found when playing with ExpressJs, was the templating engine, [Jade](http://expressjs.com/guide/using-template-engines.html).  This is one of the best templating engines I've seen.  As someone that finds it extremely tedious to write html, this is something great. You write the markup in YAML!!!
 
 This is my hello world markup with jade.
+
 ```
 html
   head
@@ -21,4 +22,5 @@ html
   body
     h1 Hello World
 ```
+
 After this experience I found that I will love to continue learning Express AND Jade.  I will also write write about new things I learn with Jade, and other ways I utilize it.
