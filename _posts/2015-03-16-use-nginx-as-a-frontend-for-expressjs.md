@@ -25,4 +25,4 @@ server {
 Project is just a keyword to be used in the `server` block, you can choose you own, what ever makes the most sense semantically.  Also, you can have the Express instance on a different server and just include the IP rather than `localhost`.  By adding multiple instances in the upstream block, you can have Nginx function as a load balancer.
 
 **Side Note**  
-The web server instances in the upstream block can be web server: Nginx, Apache, MeteorJs, PHP Webserver (I would advise not use the PHP Web Server in production), or Node Web Server, as examples.
+The web server instances in the upstream block can be any web server: Nginx, Apache, MeteorJs, PHP Webserver (I would advise not use the PHP Web Server in production), or Node Web Server, as examples.
