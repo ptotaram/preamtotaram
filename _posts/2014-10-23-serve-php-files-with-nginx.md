@@ -28,9 +28,9 @@ server {
 At this point you need PHP-FPM
 `sudo apt-get install php5-fpm`
 
-Given that you are using linux, you will want PHP-FPM to run on a UNIX socket.  
--  Open `/etc/php5/fpm/pool.d/www.conf` for editing.  
--  Find the line that says `listen = 127.0.0.1:9000` and change the value to `/var/runphp5-fpm.sock`  
+Given that you are using linux, you will want PHP-FPM to run on a UNIX socket.
+-  Open `/etc/php5/fpm/pool.d/www.conf` for editing.
+-  Find the line that says `listen = 127.0.0.1:9000` and change the value to `/var/run/php5-fpm.sock`  
 -  Restart PHP-FPM `sudo service php5-fpm restart`
 
 After this, you would need to add a new location block that would look like this
