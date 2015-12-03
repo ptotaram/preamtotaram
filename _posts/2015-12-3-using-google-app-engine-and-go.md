@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Google App Engine and Go
+title: Using Google App Engine and Go with Angular
 date: 2015-12-3
 categories: go development fullstack google-app-engine
 ---
@@ -15,8 +15,9 @@ In order for the app server to know what to do, you need to have an app.yaml fil
 Here you can set up routing, where you and make `/` point to the angular app.
 You may also need to set up static pointers to static files like css, images, and fonts.
 Then, in the last line, set up a catch-all for the REST routes.
+I also let Angular handle front-end routing.
 
-```yaml
+```
   application: testapp
   version: 1
   runtime: go
