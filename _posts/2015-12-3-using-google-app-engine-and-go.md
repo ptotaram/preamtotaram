@@ -2,7 +2,7 @@
 layout: post
 title: Using Google App Engine and Go
 date: 2015-12-3
-categories: development fullstack google-app-engine go
+categories: go development fullstack google-app-engine
 ---
 
 In a current project, I'm building a makeshift MVC system on Google App Engine where the view layer is an AgularJS app and the Model-Controller is done in Go.
