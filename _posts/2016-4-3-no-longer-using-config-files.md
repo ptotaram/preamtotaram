@@ -15,9 +15,9 @@ I can also keep sinsitive information out of my codebase for security concerns.
 
 ##Setting Environment Variables
 
-Because I've made a conscious decision to keep my development unix-based, so I do not not know about Windows servers to comfortably include them in my blog posts.
-However, creating an environment variable in Unix is easy just use the `export` command.
-Remember that when you close the terminal instance you will loose the environment variable.
+Because I've made a conscious decision to keep my development unix-based, I do not not know enough about Windows servers to comfortably include them in my blog posts.
+However, creating an environment variable in Unix is easy, just use the `export` command.
+Remember that when you close the terminal instance, you will loose the environment variable.
 Save it to your .zshrc, .bashrc, .bash_profile, or which ever file you may be using.
 
 ```
