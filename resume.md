@@ -54,48 +54,67 @@ ST. JOHN’S UNIVERSITY, New York, NY (GPA: 3.0)
 
 **EXPERIENCE**
 
+THE BOSCO,  Brooklyn, NY                      (Dec. 2015 - August 2016)
+*Node Developer*
+<ul>
+  <li>
+    Maintain a REST API and the infrastructure around it
+    <ul>
+      <li>On AWS, uses Elastic Beanstalk, RDS, Lambda, and elasticache</li>
+      <li>ExpressJs Framework</li>
+      <li>Uses Mocha for Testing</li>
+      <li>Tested Endpoints using Postman, did batch tests using collections</li>
+    </ul>
+  </li>
+  <li>
+    Built an internal administration interface using AngularJS
+    <ul>
+      <li>Modularized using Browserify, to use CommonJS</li>
+    </ul>
+  </li>
+</ul>
+
 INDEPENDENT CONTRACTOR, Mount Vernon, NY			(Nov. 2014- Dec. 2015)
 *PHP Developer/ Dev Ops Engineer*
 <ul>
   <li>
     Crossbeat NYC
-    A digital agency in NYC had me build a REST API for po0k
-   0,
+    A digital agency in NYC had me build a REST API for their client, PropItUp
+  </li>
     <ul>
-      <li></li>
+      <li>Designed a database schema involving a SQL RDMS and a NoSQL Document store</li>
+      <li>Developed a REST API using swagger as a guide on the endpoints</li>
+      <li>Endpoint developed in using Symfony</li>
     </ul>
   </li>
   <li>
     With Pulp
     <ul>
-      <li></li>
+      <li>Worked on a wordpress module that ran a sweepstakes for a reality television show</li>
     </ul>
   </li>
   <li>
     Robofirm
     <ul>
-      <li></li>
+      <li>Utilized Magento to work on e-commerce sites </li>
     </ul>
   </li>
-	<li>Utilized Magento to work on e-commerce sites for Robofirm  </li>
-	<li>Used Wordpress to design and build and application for Pulp  </li>
-	<li>Worked on two projects built on Symfony2 and Drupal 8; used Vagrant and Puppet to create development environment  </li>
 </ul>
 
 IMAGINE EASY SOLUTIONS, New York, NY				(Jun. 2013- Nov. 2014)
 *PHP Developer*
 <ul>
-	<li>Built easybib.com app on Zend framework 1 and consumed the REST API, built on Silex  </li>
-	<li>Worked on an NDA protected application built on AngularJS and worked on the REST API built on Silex  </li>
-	<li>Work was done in a TDD manner using Mocha and PHPUnit  </li>
+  <li>Built easybib.com app on Zend framework 1 and consumed the REST API, built on Silex  </li>
+  <li>Worked on an NDA protected application built on AngularJS and worked on the REST API built on Silex  </li>
+  <li>Work was done in a TDD manner using Mocha and PHPUnit  </li>
 </ul>
 
 SOMETHING DIGITAL, New York, NY					(Nov. 2011- May 2013)
 *PHP Developer/ Dev Ops Engineer*
 <ul>
-	<li>Performed work in Magento Maintaining Magento ecommerce sites using PHP  </li>
-	<li>Utilized Wordpress to maintain sites and new development projects in PHP  </li>
-	<li>Performed dev ops  on sites done in .NET and LAMP  </li>
+  <li>Performed work in Magento Maintaining Magento ecommerce sites using PHP  </li>
+  <li>Utilized Wordpress to maintain sites and new development projects in PHP  </li>
+  <li>Performed dev ops  on sites done in .NET and LAMP  </li>
 </ul>
 
 INDEPENDENT CONTRACTOR, Mount Vernon, NY			(Jun. 2010- Nov. 2011)
