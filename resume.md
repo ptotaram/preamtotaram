@@ -36,16 +36,17 @@ ST. JOHN’S UNIVERSITY, New York, NY (GPA: 3.0)
     <ul>
       <li>LAMP/LEMP</li>
       <li>Node.js</li>
-      <li>Vagrant/Puppet</li>
+      <li>Vagrant/Ansible</li>
       <li>Browser</li>
       <li>Google Cloud Platform</li>
       <li>AWS</li>
     </ul>
   </li>
-  <lib>
+  <li>
     Frameworks
     <ul>
       <li>AngularJS</li>
+      <li>Zend</li>
       <li>Symfony2/Silex</li>
       <li>ExpressJS</li>
     </ul>
@@ -54,7 +55,7 @@ ST. JOHN’S UNIVERSITY, New York, NY (GPA: 3.0)
 
 **EXPERIENCE**
 
-THE BOSCO,  Brooklyn, NY                      (Dec. 2015 - August 2016)
+THE BOSCO,  Brooklyn, NY (Dec. 2015 - August 2016)  
 *Node Developer*
 <ul>
   <li>
@@ -74,7 +75,7 @@ THE BOSCO,  Brooklyn, NY                      (Dec. 2015 - August 2016)
   </li>
 </ul>
 
-INDEPENDENT CONTRACTOR, Mount Vernon, NY			(Nov. 2014- Dec. 2015)
+INDEPENDENT CONTRACTOR, Mount Vernon, NY (Nov. 2014- Dec. 2015)  
 *PHP Developer/ Dev Ops Engineer*
 <ul>
   <li>
@@ -101,15 +102,16 @@ INDEPENDENT CONTRACTOR, Mount Vernon, NY			(Nov. 2014- Dec. 2015)
   </li>
 </ul>
 
-IMAGINE EASY SOLUTIONS, New York, NY				(Jun. 2013- Nov. 2014)
+IMAGINE EASY SOLUTIONS, New York, NY (Jun. 2013- Nov. 2014)  
 *PHP Developer*
 <ul>
   <li>Built easybib.com app on Zend framework 1 and consumed the REST API, built on Silex  </li>
-  <li>Worked on an NDA protected application built on AngularJS and worked on the REST API built on Silex  </li>
+  <li>EasyBib Scholar application built on AngularJS  </li>
+  <li>Worked on REST API for EasyBib and EasyBib Scholar built on Silex </li>
   <li>Work was done in a TDD manner using Mocha and PHPUnit  </li>
 </ul>
 
-SOMETHING DIGITAL, New York, NY					(Nov. 2011- May 2013)
+SOMETHING DIGITAL, New York, NY (Nov. 2011- May 2013)  
 *PHP Developer/ Dev Ops Engineer*
 <ul>
   <li>Performed work in Magento Maintaining Magento ecommerce sites using PHP  </li>
@@ -117,22 +119,22 @@ SOMETHING DIGITAL, New York, NY					(Nov. 2011- May 2013)
   <li>Performed dev ops  on sites done in .NET and LAMP  </li>
 </ul>
 
-INDEPENDENT CONTRACTOR, Mount Vernon, NY			(Jun. 2010- Nov. 2011)
+INDEPENDENT CONTRACTOR, Mount Vernon, NY (Jun. 2010- Nov. 2011)  
 *PHP Developer*
 <ul>
-	<li>Robert Half Technology</li>
-	<ul>
-		<li>Moo Media  </li>
-		<ul>
-			<li>Developed eCommerce Site using Magento</li>
-		</ul>
-		<li>Gary Stock Company  </li>
-		<ul>
-			<li>
-				Worked on admin panel for Posrsche collision centers
-			</li>
-		</ul>
-	</ul>
-	<li>Developed ECommerce Site for Susan’s Scent Sations on Magento  </li>
+  <li>Robert Half Technology</li>
+  <ul>
+    <li>Moo Media  </li>
+    <ul>
+      <li>Developed eCommerce Site using Magento</li>
+    </ul>
+    <li>Gary Stock Company  </li>
+    <ul>
+      <li>
+        Worked on admin panel for Posrsche collision centers
+      </li>
+    </ul>
+  </ul>
+  <li>Developed ECommerce Site for Susan’s Scent Sations on Magento  </li>
 </ul>
 
