@@ -8,20 +8,19 @@ categories: site standards
 ## What is PCI compliance?
   Adhering to a set of security standards created by the Payment Card Industry for companies that process, store, accept, or transmit payment card information. It is meant to assure this is done in a secure environment.
 
-### What do I need to do to be considered PCI compliant?
+## What do I need to do to be considered PCI compliant?
 
-#### Proper penetration testing
+### Proper penetration testing
 Penetration testing is testing the ability to gain access to the server without access to user names, passwords, and access keys.
 
 #### Penetration Test tools
-
 - nmap
 - nessus
 
-#### Keep all transmissions over ssl
+### Keep all transmissions over ssl
 Lock all transmissions down and use a reputable certificate provider like that from Symantec.
 
-#### Regularly monitor access to cardholder data
+### Regularly monitor access to cardholder data
 This can be done with DAM tools, like pimcore.
 
 ## What do I need to have to be considered PCI compliant?
